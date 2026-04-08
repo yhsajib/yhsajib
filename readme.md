@@ -50,7 +50,7 @@
 - **Tools**: Git, GitHub, Jira, ClickUp, Trello, Slack, Figma,
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,laravel,js,nodejs,typescript,python,framer,webflow,tailwind,mysql,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=wordpress,mongodb,laravel,js,nodejs,typescript,python,framer,webflow,tailwind,mysql,linux,git,github,postgresql" />
 </p>
 
 ---
