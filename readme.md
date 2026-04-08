@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Senior+WordPress+Developer;Speed+Optimization+Expert;SEO+%26+Core+Web+Vitals+Specialist;WooCommerce+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Senior+WordPress+Developer;API+Integration+Specialist;Security+Improvement+%26+Hardening;Hooks+%26+Filters+Expert;Speed+Optimization+Expert;SEO+%26+Core+Web+Vitals+Specialist;WooCommerce+Developer" />
 </p>
 
 <p align="center">
