@@ -50,7 +50,7 @@
 - **Tools**: Git, GitHub, Jira, ClickUp, Trello, Slack, Figma,
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,laravel,js,nodejs,typescript,python,framer,webflow,tailwind,mysql,linux,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=wordpress,laravel,js,nodejs,typescript,python,framer,webflow,tailwind,mysql,linux,git,github" />
 </p>
 
 ---
@@ -65,21 +65,6 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yhsajib&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yhsajib&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
-
----
-
-## ⚡ What Makes Me Different
-
-- 🚀 Performance-first development approach  
-- 🎯 Real client results (not just demo projects)  
-- ⚡ Core Web Vitals & Lighthouse expert  
-- 🧠 Problem solver for complex WordPress issues  
-
----
-
-## 💡 Fun Fact
-
-> I treat every slow website like a critical bug — and I fix it ⚡
 
 ---
 
